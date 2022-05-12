@@ -1,6 +1,6 @@
-### ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ 👋
+### Assalaamu Alaikum Warahmatullahi Wabarakatuh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaminYaser-work&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SaminYaser-work&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samin-yaser-3a3232189/)
 
 
