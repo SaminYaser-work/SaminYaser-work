@@ -1,7 +1,7 @@
 ### ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaminYaser-work&style=flat-square)
-![https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue](https://www.linkedin.com/in/samin-yaser-3a3232189/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue)(https://www.linkedin.com/in/samin-yaser-3a3232189/)
 
 
 
