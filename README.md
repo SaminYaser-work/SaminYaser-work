@@ -4,7 +4,7 @@
 
 <h3 align="middle">,👋ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h3>
 
-I am Computer Science student from Bangladesh 🇧🇩. I am interested in Web development, AI & Deep learning and Linux.
+I am a Computer Science student from Bangladesh 🇧🇩. I am interested in Web development, AI & Deep learning and Linux.
 
 You can get in touch with me via email: saminyaserwork@gmail.com.
 
