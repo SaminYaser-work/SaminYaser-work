@@ -1,7 +1,7 @@
 <p align="middle"><a href="https://ibb.co/W6n6QfN"><img src="https://i.ibb.co/VtVtdT0/banner.png" alt="banner" border="0"></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaminYaser-work&style=for-the-badge&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/samin-yaser-3a3232189/)
+![Profile Views](https://komarev.com/ghpvc/?username=SaminYaser-work&style=for-the-badge&color=red)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin&color=red)](https://www.linkedin.com/in/samin-yaser-3a3232189/)
 
 <h3 align="middle">,👋ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h3>
 
