@@ -1,6 +1,7 @@
 <p align="middle"><a href="https://ibb.co/W6n6QfN"><img src="https://i.ibb.co/VtVtdT0/banner.png" alt="banner" border="0"></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaminYaser-work&style=for-the-badge&color=red)
+<a href="mailto:saminyaserwork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saminyaserwork@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin&color=red)](https://www.linkedin.com/in/samin-yaser-3a3232189/)
 ---
   
