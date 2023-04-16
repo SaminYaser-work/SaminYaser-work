@@ -34,8 +34,8 @@
       <th>Languages</th>
     </tr>
     <tr>
-      <td><p align="middle">&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=saminyaser-work&show_icons=true&locale=en" alt="saminyaser-work" /></p></td>
-      <td><p align="middle"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=saminyaser-work&show_icons=true&locale=en&layout=compact" alt="saminyaser-work" /></p></td>
+      <td><p align="middle">&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=saminyaser-work&show_icons=true&locale=en&theme=gruvbox" alt="saminyaser-work" /></p></td>
+      <td><p align="middle"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=saminyaser-work&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="saminyaser-work" /></p></td>
     </tr>
   </table>
 </div>
