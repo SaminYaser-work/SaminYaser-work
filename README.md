@@ -15,7 +15,7 @@
   
 <h3 align="middle">,👋ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h3>
 
-<p align="middle" >I am a Computer Science student from Bangladesh 🇧🇩. I am a <b>Web development</b> with keen interest on <i>Deep learning, Blockchain</i> and <i>Linux</i>. You can get in touch with me via email: <a href="mailto:saminyaserwork@gmail.com">saminyaserwork@gmail.com</a></p>
+<p align="middle" >I am a Computer Science student from Bangladesh 🇧🇩. I am a <b>Web developer</b> with keen interest on <i>Deep learning, Blockchain</i> and <i>Linux</i>. You can get in touch with me via email: <a href="mailto:saminyaserwork@gmail.com">saminyaserwork@gmail.com</a></p>
 
 <br/>
 <br/>
